@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869a6329ea696934a9d10bce60608dcc, type: 3}
+  m_Name: Scene1
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: a1a4173b-7a31-4d19-ba49-221db2451c37
+    TargetNodeGUID: e29aa8ec-602a-4a26-96d4-3fabbf9b6815
+    BasePortIndex: 0
+  - BaseNodeGUID: e29aa8ec-602a-4a26-96d4-3fabbf9b6815
+    TargetNodeGUID: e4bb1a26-1d7c-4fe8-b8d9-5efe5177e759
+    BasePortIndex: 0
+  - BaseNodeGUID: e4bb1a26-1d7c-4fe8-b8d9-5efe5177e759
+    TargetNodeGUID: b69fd377-217a-40ff-92ac-be8ae66ab2e4
+    BasePortIndex: 0
+  - BaseNodeGUID: b69fd377-217a-40ff-92ac-be8ae66ab2e4
+    TargetNodeGUID: 06a0795e-95ae-4867-ab24-a6cd04ab7eb1
+    BasePortIndex: 0
+  DialogueNodeData:
+  - GUID: a1a4173b-7a31-4d19-ba49-221db2451c37
+    DialogueText: E$n%tr%y P$o%in%t
+    TalkerName: 
+    Position: {x: 101, y: 309}
+    PortNames: []
+  - GUID: e29aa8ec-602a-4a26-96d4-3fabbf9b6815
+    DialogueText: "\u541B\uFF01\u3053\u3053\u306B\u3088\u3063\u3066\u304F\u308C\u306A\u3044\u304B\u3044"
+    TalkerName: NPC1
+    Position: {x: 266, y: 243}
+    PortNames: []
+  - GUID: e4bb1a26-1d7c-4fe8-b8d9-5efe5177e759
+    DialogueText: "\uFF08\u30E4\u30D0\u3044\u3084\u3064\u304C\u3042\u3089\u308F\u308C\u305F\uFF09"
+    TalkerName: Player
+    Position: {x: 558, y: 225}
+    PortNames: []
+  - GUID: b69fd377-217a-40ff-92ac-be8ae66ab2e4
+    DialogueText: "\u307B\u307B\u307B\u3001\u7D50\u69CB\u82E5\u3044\u306A\u3041\u3001\n\u304C\u3063\u3061\u308A\u3057\u305F\u4F53\u683C\u60AA\u304F\u306A\u3044"
+    TalkerName: NPC1
+    Position: {x: 894, y: 233}
+    PortNames: []
+  - GUID: 06a0795e-95ae-4867-ab24-a6cd04ab7eb1
+    DialogueText: "\u3069\u3053\u3078\u884C\u304F\u3064\u3082\u308A\u306A\u306E\uFF1F"
+    TalkerName: NPC1
+    Position: {x: 1193, y: 218}
+    PortNames: []
+  TalkData:
+  - Name: ' '
+  - Name: Player
+  - Name: NPC1

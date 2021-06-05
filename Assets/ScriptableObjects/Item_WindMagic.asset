@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a62da350e53d7e42a7ddf5ff7835994, type: 3}
+  m_Name: Item_WindMagic
+  m_EditorClassIdentifier: 
+  Desc: "<b>\u9BE4\u9D6C\u306E\u7FBD\u6839</b>\n\u4F1D\u8AAC\u306E\u751F\u304D\u7269\u306E\u540D\u3092\u501F\u308A\u305F\u89E6\u5A92\u3001\n\u8868\u9762\u306B\u6D41\u308C\u308B\u98A8\u306F\u307E\u3055\u306B\u5A01\u5149\u306E\u8A3C"
+  Icon: {fileID: 21300000, guid: 322351f2d1f136c4da9aa668777fd766, type: 3}

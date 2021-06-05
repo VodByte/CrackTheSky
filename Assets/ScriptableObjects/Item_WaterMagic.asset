@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a62da350e53d7e42a7ddf5ff7835994, type: 3}
+  m_Name: Item_WaterMagic
+  m_EditorClassIdentifier: 
+  Desc: "<b>\u7ADC\u5BAE\u306E\u73CD\u8C9D\r</b>\n\u6C34\u306E\u30DE\u30CA\u30FC\u304C\u305F\u3063\u3077\u308A\u5165\u3063\u305F\u8C9D\u6BBB\u3001\n\u3053\u308C\u306A\u3089\u5C71\u706B\u4E8B\u3067\u3082\u4E00\u4EBA\u3067\u98DF\u3044\u6B62\u3081\u3089\u308C\u305D\u3046"
+  Icon: {fileID: 21300000, guid: 2fd99598c600c964790dcaf95473afec, type: 3}
